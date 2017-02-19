@@ -1,4 +1,4 @@
-package fr.isima.ejb.log;
+package fr.isima.ejbadass.log;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

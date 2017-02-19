@@ -1,4 +1,4 @@
-package fr.isima.ejb.log;
+package fr.isima.ejbadass.log;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

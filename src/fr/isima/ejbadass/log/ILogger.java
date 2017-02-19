@@ -1,4 +1,4 @@
-package fr.isima.ejb.log;
+package fr.isima.ejbadass.log;
 
 import fr.isima.ejb.annotation.Singleton;
 
