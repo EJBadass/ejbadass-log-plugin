@@ -27,10 +27,6 @@
       <id>jitpack.io</id>
       <url>https://jitpack.io</url>
     </repository>
-    <repository>
-      <id>github-api</id>
-      <url>https://github.com/EJBadass/ejbadass-api/releases/download/ejbadass-api</url>
-    </repository>
   </repositories>
   <url>https://github.com/EJBadass/ejbadass-log-plugin</url>
   <organization>
