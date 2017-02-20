@@ -3,7 +3,7 @@ package fr.isima.ejbadass.log;
 import java.util.ArrayList;
 import java.util.List;
 
-import fr.isima.ejb.annotation.Singleton;
+import fr.isima.ejbadass.annotation.Singleton;
 
 @Singleton
 public class Logger implements ILogger {

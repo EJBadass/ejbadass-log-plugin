@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ejbadass</groupId>
   <artifactId>ejbadass-log-plugin</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>Plugin to add logs to EJBadass project.</description>
   <properties>
     <jdk.version>1.8</jdk.version>
@@ -37,7 +37,7 @@
   	<dependency>
 	    <groupId>com.github.EJBadass</groupId>
 	    <artifactId>ejbadass-api</artifactId>
-	    <version>ejbadass-api</version>
+	    <version>1.0.1</version>
 	</dependency>
   </dependencies>
 </project>

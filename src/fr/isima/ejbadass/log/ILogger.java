@@ -1,6 +1,6 @@
 package fr.isima.ejbadass.log;
 
-import fr.isima.ejb.annotation.Singleton;
+import fr.isima.ejbadass.annotation.Singleton;
 
 @Singleton
 public interface ILogger {
