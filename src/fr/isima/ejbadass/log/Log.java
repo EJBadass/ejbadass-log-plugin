@@ -10,6 +10,4 @@ import fr.isima.ejbadass.annotation.Behaviour;
 @Retention(RetentionPolicy.RUNTIME)
 @Target({ElementType.METHOD,ElementType.TYPE})
 @Behaviour(interceptor=LogInterceptor.class)
-public @interface Log {
-
-}
+public @interface Log { }

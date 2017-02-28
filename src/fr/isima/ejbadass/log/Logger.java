@@ -21,9 +21,10 @@ public class Logger implements ILogger {
 	@Override
 	public String getAll() {
 		String res = "";
-		for (String string : logs) {
+		
+		for (String string : logs)
 			res += string + "\n";
-		}
+		
 		return res;
 	}
 
